@@ -20,7 +20,7 @@ Hay varias formas de ejecutar una aplicación Spring Boot en su máquina local. 
 Alternativamente, puede usar el [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) asi:
 
 ```shell
-mvn spring-boot:run
+./mvnw.cmd spring-boot:run
 ```
 
 ## Web services expuestos
