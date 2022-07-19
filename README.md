@@ -33,9 +33,8 @@ Servicios creados:
 ```shell
 curl https://git-hub-api-rest.herokuapp.com/api/nivel1
 ```
-```shell
-curl https://git-hub-api-rest.herokuapp.com/api/coupon
-```
+## Consumiendo web services desde POSTMAN
+![nivel2](https://github.com/ingjuanrodriguezdiaz/api-back-end/blob/main/coupon.png)
 
 ## Copyright
 
