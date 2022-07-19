@@ -31,7 +31,10 @@ Servicios creados:
 
 ## Consumiendo web services desde terminal linux
 ```shell
-curl https://app-meli-back-end.herokuapp.com/api/listar
+curl https://git-hub-api-rest.herokuapp.com/api/nivel1
+```
+```shell
+curl https://git-hub-api-rest.herokuapp.com/api/coupon
 ```
 
 ## Copyright
