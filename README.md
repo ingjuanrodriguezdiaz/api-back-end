@@ -27,13 +27,24 @@ Alternativamente, puede usar el [Spring Boot Maven plugin](https://docs.spring.i
 
 Servicios creados:
 
-* https://app-meli-back-end.herokuapp.com/api/listar : servicio que lista los item
+* https://git-hub-api-rest.herokuapp.com/items/nivel1
+* https://git-hub-api-rest.herokuapp.com/items/coupon
 
 ## Consumiendo web services desde terminal linux
 ```shell
-curl https://git-hub-api-rest.herokuapp.com/api/nivel1
+curl https://git-hub-api-rest.herokuapp.com/items/nivel1
 ```
 ## Consumiendo web services desde POSTMAN
+```shell
+https://git-hub-api-rest.herokuapp.com/items/coupon
+```
+```shell
+{
+"item_ids": ["MLA1", "MLA2", "MLA3", "MLA4", "MLA5"],
+"amount": 500
+}
+```
+
 ![nivel2](https://github.com/ingjuanrodriguezdiaz/api-back-end/blob/main/coupon.png)
 
 ## Copyright
